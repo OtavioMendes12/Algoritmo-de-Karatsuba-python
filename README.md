@@ -11,11 +11,11 @@ Este projeto implementa o algoritmo de Karatsuba em Python para realizar multipl
 ### Passo a passo
 1. Clone este repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/OtavioMendes12/Algoritmo-de-Karatsuba-python.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
-   cd nome_do_projeto
+   cd Algoritmo-de-Karatsuba-python
    ```
 3. Execute o script principal:
    ```bash
@@ -74,5 +74,3 @@ A complexidade ciclomática pode ser calculada através do grafo de fluxo de con
 
 **Complexidade Ciclomática (M) = E - N + 2P = 6 - 5 + 2(1) = 3**
 
-## Licença
-Este projeto está licenciado sob a Licença MIT.
