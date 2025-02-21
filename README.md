@@ -6,7 +6,7 @@ Este projeto implementa o algoritmo de Karatsuba em Python para realizar multipl
 ## Como executar o projeto
 
 ### Requisitos
-- Python 3.x instalado
+- Python 3.13 instalado
 
 ### Passo a passo
 1. Clone este repositório:
